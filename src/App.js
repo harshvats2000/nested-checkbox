@@ -62,7 +62,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>PingSafe Task - Interview</h1>
+      <h1>Nested Checkbox</h1>
       <List children={items} calculate={calculate} />
     </div>
   );
